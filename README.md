@@ -38,13 +38,14 @@ The **Tea Leaf Scanner** is a mobile application developed using **Flutter** for
 
 Include screenshots of the application to showcase its features and UI:
 
-- **Home Screen**
-- **Image Upload Feature**
-- **Prediction Results**
-- **Mapping**
-
-```
+### Home Screen
 ![Home Screen](screenshots/home_screen.jpeg)
+
+### Image Upload Feature
 ![Image Upload](screenshots/image_upload.jpeg)
+
+### Prediction Results
 ![Prediction Results](screenshots/prediction_results.jpeg)
+
+### Mapping
 ![Map Ploting](screenshots/map.jpeg)
